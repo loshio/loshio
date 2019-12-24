@@ -13,7 +13,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github', link: 'https://github.com/cap-size'}
+- {icon: 'github', link: 'https://github.com/loshio'}
 - {icon: 'youtube', link: 'https://www.youtube.com/channel/UC2MA9mtQ8uOLnBiJFODn5Ew'}
 - {icon: 'twitter', link: 'https://twitter.com/whatisalosh'}
 - {icon: 'envelope', link: 'mailto:lakotajosh@gmail.com'}
